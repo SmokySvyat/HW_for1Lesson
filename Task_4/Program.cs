@@ -28,4 +28,4 @@ if (number3 > max)
 }
 
 
-Console.WriteLine(max);
+Console.WriteLine("Число " + max + " больше.");
